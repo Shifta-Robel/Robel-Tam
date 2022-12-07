@@ -23,7 +23,7 @@
   </div>
 </div>
 <br/><br/>
-
+<!---
 ## Things I use a lot
 <br/>
 <img src="https://media.giphy.com/media/ch1Z4rUWBZBnO/giphy.gif" width="30%"></img>
