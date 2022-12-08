@@ -18,12 +18,18 @@
 
 <div>
   <div>
-    <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=Robel-Tam&theme=radical&hide=issues"/>
-    <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robel-Tam&layout=compact&theme=radical" />
+    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Robel-Tam&theme=radical&hide=issues"/>
+    <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robel-Tam&layout=compact&theme=radical" />
   </div>
 </div>
 <br/><br/>
+<hr>
+
+
+<h2 align="center">⚒️ Things I mostly work with</h2>
+
 <!---
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text+)](https://git.io/typing-svg)
 ## Things I use a lot
 <br/>
 <img src="https://media.giphy.com/media/ch1Z4rUWBZBnO/giphy.gif" width="30%"></img>
