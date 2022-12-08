@@ -5,26 +5,15 @@
 
 <br/>
 
-<!---
-<div align="center" width=100%>
-  <div>
-  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Robel-Tam&theme=radical&hide=issues" />
-  </div>
-  <div>
-    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robel-Tam&layout=compact&theme=radical" />
-  </div>
-</div>
---->
-
 <div>
-  <div>
-    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Robel-Tam&theme=radical&hide=issues"/>
-    <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robel-Tam&layout=compact&theme=radical" />
-  </div>
-</div>
-<br/><br/>
-<hr>
 
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Robel-Tam&theme=radical&hide=issues"/>
+<img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robel-Tam&layout=compact&theme=radical" />
+
+</div>
+
+
+<img align="center" width="100%" src="https://github.com/Robel-Tam/Robel-Tam/blob/output/github-contribution-grid-snake.svg"/>
 
 <h2 align="center">⚒️ Things I mostly work with</h2>
 
