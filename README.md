@@ -17,6 +17,14 @@
 
 <h2 align="center">⚒️ Things I mostly work with</h2>
 
+<div align="center">
+  <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+  <img height="48" width="48" src="https://docs.soliditylang.org/en/latest/_images/logo.svg" />
+  <img height="48" width="68" src="https://hardhat.org/_next/static/media/hardhat-logo-dark.484eb916.svg" />
+  
+</div>
+
 <!---
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text+)](https://git.io/typing-svg)
 ## Things I use a lot
