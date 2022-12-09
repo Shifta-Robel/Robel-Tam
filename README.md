@@ -18,11 +18,32 @@
 <h2 align="center">⚒️ Things I mostly work with</h2>
 
 <div align="center">
-  <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-  <img height="48" width="48" src="https://docs.soliditylang.org/en/latest/_images/logo.svg" />
-  <img height="48" width="68" src="https://hardhat.org/_next/static/media/hardhat-logo-dark.484eb916.svg" />
   
+  <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+  <img height="48" width="48" style="background-color:red;" src="https://cdn.simpleicons.org/solidity/blue" />
+  <img height="48" width="48" style="background-color:red;" src="https://cdn.simpleicons.org/web3dotjs/#1e81b0" />
+  <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+  <img height="48" width="72" src="https://hardhat.org/_next/static/media/hardhat-logo-dark.484eb916.svg" />
+  
+</div>
+
+<h2 align="center">🧰 Other skills</h2>
+
+<div align="center">
+  <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+  <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />
+  <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
+  <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+  <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"/>
+  <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+  <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+  <img height="48" width="48" src="https://avatars.githubusercontent.com/u/100243663?s=200&v=4"/>
+  
+</div>
+
+<br/>
+<div align="center">
+  <img  width="40%" src="https://media.giphy.com/media/ch1Z4rUWBZBnO/giphy.gif"></img>
 </div>
 
 <!---
