@@ -13,7 +13,7 @@
 </div>
 
 
-<img align="center" width="100%" src="https://github.com/Shifta-Robel/Robel-Tam/blob/output/github-contribution-grid-snake.svg"/>
+<img align="center" width="100%" src="https://github.com/Shifta-Robel/Shifta-Robel/blob/output/github-contribution-grid-snake.svg"/>
 
 <h2 align="center">⚒️ Things I mostly work with</h2>
 
