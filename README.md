@@ -7,13 +7,13 @@
 
 <div>
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Robel-Tam&theme=radical&hide=issues"/>
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robel-Tam&layout=compact&theme=radical" />
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Shifta-Robel&theme=radical&hide=issues"/>
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shifta-Robel&layout=compact&theme=radical" />
 
 </div>
 
 
-<img align="center" width="100%" src="https://github.com/Robel-Tam/Robel-Tam/blob/output/github-contribution-grid-snake.svg"/>
+<img align="center" width="100%" src="https://github.com/Shifta-Robel/Robel-Tam/blob/output/github-contribution-grid-snake.svg"/>
 
 <h2 align="center">⚒️ Things I mostly work with</h2>
 
