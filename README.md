@@ -1,6 +1,6 @@
 <div align="center">
   <h1> Hey there! I'm Robel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> </h1>
-  <i>Blockchain dev / Tech polymath from <b>Addis Ababa, Ethiopia</b>.</i>
+  <i>Blockchain enthusiast / Tech polymath from <b>Addis Ababa, Ethiopia</b>.</i>
 </div>
 </br>
 
