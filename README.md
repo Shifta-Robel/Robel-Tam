@@ -8,7 +8,7 @@
 
 <p style="display: flex; justify-content: center; align-items: flex-start;">
 <img style="border-radius: 5px; flex: 1" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shifta-Robel&layout=compact&theme=transparent&hide_border=false&langs_count=6" />
-  <img style="border-radius: 5px; flex: 1" width="400px" src="https://github-readme-stats.vercel.app/api?username=Shifta-Robel&theme=transparent&hide_border=false&count_private=true&line_height=31"/>
+  <img style="border-radius: 5px; flex: 1" width="400px" src="https://github-readme-stats.vercel.app/api?username=Shifta-Robel&theme=transparent&hide_border=false&count_private=true&line_height=28"/>
 </p>
 
 </div>
