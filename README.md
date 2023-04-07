@@ -1,6 +1,6 @@
 <div align="center">
   <h1> Hey there! I'm Robel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> </h1>
-  <i>Friendly code hobo from <b>Addis Ababa, Ethiopia</b>.</i>
+  <i>A code hobo from <b>Addis Ababa, Ethiopia</b>.</i>
 </div>
 </br>
 
@@ -8,7 +8,7 @@
 
 <p style="display: flex; justify-content: center; align-items: flex-start;">
 <img style="border-radius: 5px; flex: 1" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shifta-Robel&layout=compact&theme=transparent&hide_border=false&langs_count=6" />
-  <img style="border-radius: 5px; flex: 1" width="400px" src="https://github-readme-stats.vercel.app/api?username=Shifta-Robel&theme=transparent&hide_border=false&count_private=true&line_height=28"/>
+  <img style="border-radius: 5px; flex: 1" width="400px" src="https://github-readme-stats.vercel.app/api?username=Shifta-Robel&theme=transparent&hide_border=false&count_private=true&line_height=34"/>
 </p>
 
 </div>
